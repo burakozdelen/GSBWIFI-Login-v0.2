@@ -64,6 +64,6 @@ Otomatik giriş, cihaz sınırı aşıldığında çıkış yapma ve hızlı ba�
 ## 🔽 Hızlı İndirme
 
 📦 Program dosyalarının yer aldığı klasörü `.zip` olarak buradan indirebilirsiniz:  
-👉 [GSBWIFI-Login v0.2 ZIP İndir](https://github.com/burakozdelen/GSBWIFI-Login-v0.2/tree/main/GSBWIFI%20Login%20v0.2)
+👉 [GSBWIFI-Login v0.2 ZIP İndir](https://github.com/burakozdelen/GSBWIFI-Login-v0.2/tree/main/GSBWIFI%20Login%20v0.2/releases)
 
 ---
